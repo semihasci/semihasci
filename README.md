@@ -1,4 +1,14 @@
 ### Hi there 👋
+<ul>
+<li> 👋 Hi, I'm @semihasci :cowboy_hat_face:</li>
+<li> I'm interested in C and python </li>
+<li> 🔭 I’m currently working on Camera pan-tilt system</li>
+<li>📫 How to reach me: https://www.linkedin.com/in/semihasci/ </li>
+</ul>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semihasci)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **semihasci/semihasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
